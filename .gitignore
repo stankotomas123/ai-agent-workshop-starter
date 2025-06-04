@@ -1,0 +1,16 @@
+# Java/Maven
+*.jar
+*.war
+*.ear
+target/
+*.log
+build/
+dist/
+out/
+
+# IDE
+.idea/
+*.iml
+
+# Other
+.DS_Store
